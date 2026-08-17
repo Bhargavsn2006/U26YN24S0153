@@ -1,5 +1,21 @@
 {
+<<<<<<< HEAD
   "dependencies": {
+=======
+  "name": "college",
+  "version": "1.0.0",
+  "description": "college website",
+  "license": "ISC",
+  "author": "Bhargav N",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+>>>>>>> de662adf7cb3fb66ef25acb2059eac002a81cd27
     "express": "^5.2.1"
   }
 }
